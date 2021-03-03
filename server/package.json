@@ -4,6 +4,17 @@
   "description": "Socket-io server from react-simple-chat",
   "main": "index.js",
   "author": "TheStrikeM",
-  "license": "MIT",
-  "private": false
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "config": "^3.3.4",
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "mongoose": "^5.11.18",
+    "socket.io": "^3.1.2",
+    "uuid": "^8.3.2"
+  }
 }
