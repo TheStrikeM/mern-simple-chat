@@ -1,0 +1,9 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Socket-io server from react-simple-chat",
+  "main": "index.js",
+  "author": "TheStrikeM",
+  "license": "MIT",
+  "private": false
+}
